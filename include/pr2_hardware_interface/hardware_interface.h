@@ -42,8 +42,6 @@
 
 #include <geometry_msgs/Vector3.h>
 #include <geometry_msgs/Wrench.h>
-//#include <ethercat_hardware/MotorTraceSample.h> 
-#include "/wg/stor5/rudasi/my_workspace/ethercat_hardware/msg_gen/cpp/include/ethercat_hardware/MotorTraceSample.h"
 
 namespace pr2_hardware_interface{
 
